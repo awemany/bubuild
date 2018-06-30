@@ -1,0 +1,7 @@
+*~
+gitpoller-workdir
+*.log
+*.pid
+twistd.hostname
+bu-worker-1/make/
+__pycache__
